@@ -1,0 +1,11 @@
+
+### Adding to the GitHub Repository
+
+1. **In the GitHub Repository Settings**:
+   - In the "About" section of your GitHub repository, add the short description.
+   - Add relevant topics/tags, such as `forensic`, `android`, `spyware`, `log-analysis`, `security`.
+
+2. **README.md**:
+   - Ensure your `README.md` contains the detailed description and usage instructions.
+
+By providing a clear and concise description, you make it easier for others to understand the purpose of your tool and how to use it effectively.
